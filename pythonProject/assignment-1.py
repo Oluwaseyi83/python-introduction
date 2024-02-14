@@ -119,3 +119,4 @@ file_path = '/c/Users/oyase/OneDrive/Desktop/Cloud/project-folder/Repositories/p
 # Open the file using a context manager
 with open(file_path, 'r') as file_name:
     print(file_name.read())
+
